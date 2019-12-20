@@ -1,0 +1,1 @@
+gcc hypotenuse.c -lm
